@@ -27,7 +27,7 @@ Este projeto é um sistema de reservas desenvolvido em linguagem C, que simula o
 
 ## 📷 Demonstração (print da tela)
 
-![Exemplo de tela](docs/agenda_screenshot.png)) 
+![Exemplo de tela](docs/cinema_screens.png)
 
 ---
 
